@@ -1,5 +1,5 @@
 {
-  "name": "cosmos/package-bmi",
+  "name": "CosmosWeng/package-bmi",
   "description": "BMI Cal",
   "type": "library",
   "require-dev": {
