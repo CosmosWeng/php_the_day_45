@@ -1,0 +1,17 @@
+{
+  "name": "cosmos/package-bmi",
+  "description": "BMI Cal",
+  "type": "library",
+  "require-dev": {
+    "phpunit/phpunit": "^8.1"
+  },
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "PhpTheDay\\": "src/",
+      "Tests\\": "tests/"
+    }
+  }
+}

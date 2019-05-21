@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":280:{a:2:{s:7:"defects";a:3:{s:20:"HealthTest::test_bmi";i:4;s:30:"PhpTheDay\HealthTest::test_bmi";i:4;s:26:"Tests\HealthTest::test_bmi";i:3;}s:5:"times";a:3:{s:20:"HealthTest::test_bmi";d:0.002;s:30:"PhpTheDay\HealthTest::test_bmi";d:0.002;s:26:"Tests\HealthTest::test_bmi";d:0.003;}}}
