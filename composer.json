@@ -1,7 +1,7 @@
 {
   "name": "cosmos-weng/package-bmi",
   "description": "BMI Cal",
-  "type": "library",
+  "type": "drupal-library",
   "require-dev": {
     "phpunit/phpunit": "^8.1"
   },
